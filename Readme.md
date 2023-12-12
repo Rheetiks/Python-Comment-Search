@@ -10,18 +10,19 @@ Before you begin, ensure that your system meets the following requirements:
 - [pip](https://pip.pypa.io/en/stable/installation/) (Python package installer)
 
 ## Navigate to the project directory:
-    ``` cd python-comment-search ```
+``` cd python-comment-search ```
 
 ## Create a virtual environment (optional but recommended):
-    ``` python -m venv venv ```
+``` python -m venv venv ```
 
 
 ## Activate the virtual environment:
-    ``` venv\Scripts\activate ```
+``` venv\Scripts\activate ```
 
 
 ## Install dependencies:
-    ```pip install -r requirements.txt```
+```pip install -r requirements.txt```
 
 ## Run the Python Comment Search application:
-    ```python app.py```
+```python app.py```
+    
